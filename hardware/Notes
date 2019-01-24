@@ -1,0 +1,16 @@
+- Frame is constructed from 20x20 aluminium profile, though could be made from similar sized wood to reduce cost further.
+-- Aluminium profile hacksawed and filed to dimension.
+- Corner brackets fabricated from 1 metre of 1.5x30x30mm aluminium (about £4.90).
+-- Hacksawed and filed to dimension, drilled to accept machine screws. Rather than measure drill point for all 16 brackets, first bracket measured, marked and machined, then used as guide for other brackets. Total construction time <1hr.
+
+- Guide is a linear rail, sourced from ebay, rather than optical shaft used in many designs. Slightly higher cost, but better stiffness, and much smaller profile and mass. Attached to aluminium with drop-in T nuts.
+- X axis mounted to Y axis by fabricated adapter. 
+-- Plate of 3mm aluminium, drilled and countersunk for 4xM3 and 1xM6 machine screws. Aluminium profile of X axis tapped for M6 thread. X and Y axes assembled into very low-profile XY table. However, assemlby is fiddly, requires more finger space.
+
+- Hotend is an E3D V6 lite (most expensive individual component, but necessary for ensured quality).
+-- Custom adapter bracket made from aluminium U channel, rounded slot hacksawed and filed to fit. Cold end is pinned against linear slide plate, completely rigid.
+
+To do:
+- Determine frictional coefficient of axes, find minimum torque requirements for motor.
+- Source pulleys and design adapter brackets.
+- Source motors
